@@ -9,7 +9,7 @@ public class ToDoLists {
     public static void main(String[] args) {
         int option;
         do {
-            System.out.println("----Menu----");
+            System.out.println("***** Menu *****");
             System.out.println("Opção->[1] - Adicionar item");
             System.out.println("Opção->[2] - remover item");
             System.out.println("Opção->[3] - Listar item");
